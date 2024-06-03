@@ -31,6 +31,7 @@ ThingSpeak: Receives and analyzes data, providing insights into the performance 
 Street Lighting System: Utilizes the solar energy to power street lights with automated control mechanisms.
 
 Setup and Installation
+
 To set up and run the project, follow these steps:
 
 Install Solar Panels:
